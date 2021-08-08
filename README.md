@@ -1,11 +1,11 @@
-### VBA! (aka the Worst Language)
+## VBA! (aka the Worst Language)
 visual basic for applications macros, word/excel
 they are here because i cba to set up an actual website
 feel free to send to other people 
 
-#### Word
+### Word
 
-##### Verbatim scroll-to-top issue
+#### Verbatim scroll-to-top issue
 Apparently this sometimes doesn't work for mac -- an alternative is to use [draft mode](https://www.dummies.com/software/microsoft-office/word/how-to-change-the-document-view-in-word-2016/#:~:text=The%20Draft%20view%20presents%20only%20basic%20text)
 
 
@@ -19,12 +19,12 @@ Private Sub Document_Open()
 End Sub
 ```
 
-##### Underline the first letter of every word
+#### Underline the first letter of every word
 because **U**nited **S**tates is necessary for every card with "united states" in it
 
 ```
 working on it lmao
 ```
 
-#### Excel
+### Excel
 ¯\\\_(ツ)_/¯
