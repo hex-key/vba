@@ -19,6 +19,12 @@ Private Sub Document_Open()
 End Sub
 ```
 
+##### Underline the first letter of every word
+because **U**nited **S**tates is necessary for every card with "united states" in it
+
+```
+working on it lmao
+```
 
 #### Excel
 ¯\\\_(ツ)_/¯
