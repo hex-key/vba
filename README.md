@@ -26,6 +26,7 @@ End Sub
 
 ### Cite box issues 
 Should fix that thing when you paste your cites into the wiki and then they don't show up
+
 NOTE: I probably haven't included every single invalid character. This is because my only source of knowledge on which characters are invalid is when I personally try to upload cites and they don't work. 
 #### So, if you implement this and your cites still don't show up, [submitting an issue](https://github.com/hex-key/vba/issues/new) with the cite that isn't working would be  super helpful for me to continue updating this!
 
